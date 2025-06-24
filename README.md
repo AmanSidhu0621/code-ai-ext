@@ -70,7 +70,7 @@ You can author your README using Visual Studio Code. Here are some useful editor
 
 # code-ai-ext
 
-More to come - but continuing to build a VSCode extension of a chat interface with ChatGPT as the engine.
+More to come - but continuing to build a VSCode extension of a chat interface with ChatGPT as the engine (Personal playground for sharpening typescript skills further)
 
 
 
